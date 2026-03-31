@@ -10,3 +10,4 @@ const doctor: Command = {
 }
 
 export default doctor
+
