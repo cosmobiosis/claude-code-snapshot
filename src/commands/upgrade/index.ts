@@ -14,3 +14,4 @@ const upgrade = {
 } satisfies Command
 
 export default upgrade
+
